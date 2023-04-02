@@ -1,0 +1,12 @@
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/Api
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/publish/web.config
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/appsettings.Development.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/appsettings.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/publish/Api.deps.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/publish/Api.runtimeconfig.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/publish/appsettings.Development.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/publish/appsettings.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/Api.dll
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/Api.deps.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/Api.runtimeconfig.json
+/home/genry/Desktops/Desktop1/ХранительПРО/Api/publish/Api.pdb
